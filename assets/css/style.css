@@ -5,11 +5,7 @@ html {
 body{
     font-family: 'Raleway', sans-serif;
     background-color: black;
-    color: white;
-}
-.bg-nav{
-    background-color: #333c49;
-}
+    color: white;}
 .carousel-item{
     height: auto;
 } 
