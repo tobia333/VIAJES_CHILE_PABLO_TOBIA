@@ -1,0 +1,75 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: black;
+    color: white;
+}
+.bg-nav{
+    background-color: #333c49;
+}
+.carousel-item{
+    height: auto;
+} 
+.quienes{
+    text-align: center;
+    padding: 2%;
+}
+
+.iconos{
+    
+    text-align: center;
+    vertical-align: middle;
+    background-color: #40cfdc;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+}
+
+p{
+    font-weight: 300;
+}
+
+.destacados{
+    background-color: #333c49;
+    text-align: center;
+}
+.card-text{
+    color: #fff;
+    text-align: left;
+    font-size: 1rem;
+    font-weight: 400;
+   
+}
+.titulo-card{
+    color: #fff;
+    text-align: left;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.color-card{
+    background-color: #40cfdc;
+
+}
+.card-img-top{
+    height: 14rem;
+}
+.contacto{
+    text-align: center;
+}
+.fondo-footer{
+    background-color: #40cfdc;
+    color: #fff;
+    font-weight: 500;
+
+}
+.bg1{
+    background: #fff;
+}
+
+
+
+
